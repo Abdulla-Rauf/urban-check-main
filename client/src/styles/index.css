@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color: #111111;
+    background-color: #FFFFFF;
+  }
+
+  ::selection {
+    background-color: #D8C7AD;
+    color: #111111;
+  }
+}
+
+@layer utilities {
+  .editorial-heading {
+    font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.02em;
+  }
+  
+  .editorial-sub {
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+}
