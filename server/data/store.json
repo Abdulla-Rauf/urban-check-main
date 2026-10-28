@@ -1,0 +1,209 @@
+{
+  "products": [
+    {
+      "name": "Nike Air Jordan",
+      "slug": "nike-air-jordan",
+      "description": "Nike Air Jordan",
+      "shortDescription": "Nike Air Jordan",
+      "brand": "item_1793167502205_pn1fp",
+      "category": "item_1793166208250_uoix0",
+      "price": 24500,
+      "originalPrice": 28000,
+      "discountPercent": 0,
+      "gender": "Unisex",
+      "material": "",
+      "tags": "outerwear, luxury, tailored",
+      "images": [
+        "https://i.pinimg.com/1200x/85/6c/97/856c975f66ac7693d0b98710d84764d5.jpg"
+      ],
+      "thumbnail": "https://i.pinimg.com/1200x/85/6c/97/856c975f66ac7693d0b98710d84764d5.jpg",
+      "status": "active",
+      "inStock": true,
+      "variants": [
+        {
+          "sku": "NIKE-AIR-V1",
+          "size": "S",
+          "color": "Classic Black",
+          "colorHex": "#111111",
+          "price": 24500,
+          "salePrice": null,
+          "stock": 10,
+          "status": "active"
+        },
+        {
+          "sku": "NIKE-AIR-V2",
+          "size": "M",
+          "color": "Classic Black",
+          "colorHex": "#111111",
+          "price": 24500,
+          "salePrice": null,
+          "stock": 15,
+          "status": "active"
+        },
+        {
+          "sku": "NIKE-AIR-V3",
+          "size": "L",
+          "color": "Classic Black",
+          "colorHex": "#111111",
+          "price": 24500,
+          "salePrice": null,
+          "stock": 8,
+          "status": "active"
+        }
+      ],
+      "seo": {
+        "metaTitle": "Nike Air Jordan — Urban Check Atelier",
+        "metaDescription": "Nike Air Jordan",
+        "keywords": "Nike Air Jordan"
+      },
+      "id": "item_1793167045615_i224m",
+      "_id": "item_1793167045615_i224m",
+      "createdAt": "2026-10-28T05:57:25.615Z",
+      "updatedAt": "2026-10-28T06:06:12.356Z",
+      "salePrice": null
+    },
+    {
+      "name": "Double-Breasted Wool Blazer",
+      "slug": "double-breasted-wool-blazer",
+      "description": "Precision Italian virgin wool double-breasted blazer with peaked lapels.",
+      "shortDescription": "Tailored virgin wool blazer.",
+      "brand": "Urban Check Atelier",
+      "category": "Tailored Suits",
+      "price": 18500,
+      "originalPrice": 22000,
+      "discountPercent": 15,
+      "gender": "Women",
+      "material": "",
+      "tags": [],
+      "images": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85",
+      "status": "active",
+      "inStock": true,
+      "variants": [
+        {
+          "sku": "DB-BLAZER-S",
+          "size": "S",
+          "color": "Classic Black",
+          "colorHex": "#111111",
+          "price": 18500,
+          "salePrice": null,
+          "stock": 12,
+          "images": [],
+          "status": "active"
+        },
+        {
+          "sku": "DB-BLAZER-M",
+          "size": "M",
+          "color": "Classic Black",
+          "colorHex": "#111111",
+          "price": 18500,
+          "salePrice": null,
+          "stock": 15,
+          "images": [],
+          "status": "active"
+        }
+      ],
+      "seo": {
+        "metaTitle": "Double-Breasted Wool Blazer",
+        "metaDescription": "Tailored virgin wool blazer.",
+        "keywords": []
+      },
+      "id": "item_1793166208315_jrnnd",
+      "_id": "item_1793166208315_jrnnd",
+      "createdAt": "2026-10-28T05:43:28.315Z",
+      "updatedAt": "2026-10-28T05:43:28.315Z"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Tailored Suits",
+      "slug": "tailored-suits",
+      "description": "Handcrafted suiting",
+      "status": "active",
+      "order": 0,
+      "id": "item_1793166208250_uoix0",
+      "_id": "item_1793166208250_uoix0",
+      "createdAt": "2026-10-28T05:43:28.250Z",
+      "updatedAt": "2026-10-28T05:43:28.252Z"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Nike",
+      "slug": "nike",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+      "origin": "UNITED STATES AMERICA",
+      "description": "Nike products primarily focus on athletic footwear, apparel, and sports equipment designed for both elite performance and everyday lifestyle wear.",
+      "status": "active",
+      "id": "item_1793167502205_pn1fp",
+      "_id": "item_1793167502205_pn1fp",
+      "createdAt": "2026-10-28T06:05:02.205Z",
+      "updatedAt": "2026-10-28T06:05:02.205Z"
+    },
+    {
+      "name": "Urban Check Atelier",
+      "slug": "urban-check-atelier",
+      "logo": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=200",
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=200",
+      "origin": "Milan",
+      "status": "active",
+      "id": "item_1793166208288_wt9y5",
+      "_id": "item_1793166208288_wt9y5",
+      "createdAt": "2026-10-28T05:43:28.288Z",
+      "updatedAt": "2026-10-28T05:43:28.288Z"
+    }
+  ],
+  "banners": [
+    {
+      "title": "Black Friday",
+      "subtitle": "Black Friday Shopping Upto 80% offers for Products",
+      "image": "https://img.magnific.com/free-vector/black-friday-sale-banner-turquoise-color_1017-34703.jpg?semt=ais_hybrid&w=740&q=80",
+      "cta": "Shop Collection",
+      "targetType": "Page",
+      "targetId": "shop",
+      "targetUrl": "/shop",
+      "startDate": "2026-10-28",
+      "endDate": "2026-11-27",
+      "displayOrder": 1,
+      "offerBadge": "Black Friday • Up to 80% OFF",
+      "discountPercentage": 80,
+      "offerPriceRange": "Up to 80% OFF",
+      "applicableProducts": [
+        {
+          "productId": "item_1793167045615_i224m",
+          "discountPercentage": 40,
+          "offerPrice": null
+        }
+      ],
+      "showOfferProducts": true,
+      "status": "Active",
+      "id": "item_1793168133507_czfee",
+      "_id": "item_1793168133507_czfee",
+      "createdAt": "2026-10-28T06:15:33.508Z",
+      "updatedAt": "2026-10-28T07:16:13.761Z",
+      "offerPrice": null
+    },
+    {
+      "title": "SUMMER ATELIER CAPSULE",
+      "subtitle": "EXCLUSIVE DROP",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=1600&q=85",
+      "cta": "EXPLORE CAPSULE",
+      "targetType": "Page",
+      "targetId": "shop",
+      "targetUrl": "/shop",
+      "startDate": "2026-10-28T05:43:28.302Z",
+      "endDate": null,
+      "displayOrder": 2,
+      "status": "Active",
+      "id": "item_1793166208303_zk8pj",
+      "_id": "item_1793166208303_zk8pj",
+      "createdAt": "2026-10-28T05:43:28.303Z",
+      "updatedAt": "2026-10-28T05:43:28.303Z"
+    }
+  ],
+  "offers": [],
+  "orders": []
+}
